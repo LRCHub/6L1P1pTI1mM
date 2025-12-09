@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "FXXKED UP",
+  "base_artist": "Gucci Prince",
+  "createdAt": "2025-12-09T15:31:16.846648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fxxked Up",
+      "artist": "SOMI",
+      "has_synced": true,
+      "path": "select/01_Fxxked_Up_SOMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fxxked Up",
+      "artist": "JEON SOMI",
+      "has_synced": true,
+      "path": "select/02_Fxxked_Up_JEON_SOMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FXXKED UP",
+      "artist": "Gucci Prince",
+      "has_synced": true,
+      "path": "select/03_FXXKED_UP_Gucci_Prince.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FXXKED UP",
+      "artist": "Gucci Prince feat. week dudus , Tade Dust , Bonbero",
+      "has_synced": true,
+      "path": "select/04_FXXKED_UP_Gucci_Prince_feat._week_dudus_,_Tade_Dust_,_Bonbero.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Got Me Fxxked Up",
+      "artist": "Azuxena",
+      "has_synced": true,
+      "path": "select/05_Got_Me_Fxxked_Up_Azuxena.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FXXKED UP (feat. week dudus,Tade Dust & Bonbero)",
+      "artist": "Gucci Prince",
+      "has_synced": true,
+      "path": "select/06_FXXKED_UP_(feat._week_dudus,Tade_Dust_&_Bonbero)_Gucci_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fxxked Up",
+      "artist": "JEON SOMI",
+      "has_synced": true,
+      "path": "select/07_Fxxked_Up_JEON_SOMI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fxxked Up",
+      "artist": "Jeon Somi",
+      "has_synced": true,
+      "path": "select/08_Fxxked_Up_Jeon_Somi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FXXKED UP",
+      "artist": "Gucci Prince feat. week dudus , Tade Dust , Bonbero",
+      "has_synced": false,
+      "path": "select/pl_01_FXXKED_UP_Gucci_Prince_feat._week_dudus_,_Tade_Dust_,_Bonbero.txt"
+    }
+  ]
+}
